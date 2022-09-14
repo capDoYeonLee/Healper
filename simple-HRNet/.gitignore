@@ -1,0 +1,5 @@
+*.txt
+*.pth
+*.pkl
+#__pycache__
+models/detectors/
