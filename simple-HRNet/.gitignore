@@ -1,5 +1,6 @@
 *.txt
 *.pth
 *.pkl
+*.csv
 #__pycache__
 models/detectors/
